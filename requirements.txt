@@ -1,0 +1,7 @@
+pyautogui
+numpy>=1.26,<2
+opencv-python
+mediapipe
+joblib
+scikit-learn
+streamlit
